@@ -1,0 +1,9 @@
+﻿Music player
+
+
+features 
+* Users will be able to access and play music
+* Users will be able to control volume
+* Users will be able to change songs
+* Users will be able to choose the category of music they like
+* Users will be able to add and delete songs from app library
